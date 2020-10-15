@@ -1,0 +1,41 @@
+.avatar {
+    height: 66px;
+    width: auto;
+    border-radius: 100px;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+.received-message {
+    display:flex;
+    justify-content: left;
+}
+.sent-message {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+.sent-text {
+    padding: 10px;
+    border-radius: 10px;
+    background: dodgerblue;
+    color: white;
+}
+.chat-message {
+    display: flex;
+    align-content: left;
+}
+
+.chat-body {
+    display: block;
+}
+
+/* .user-name { */
+    /* margin-bottom: -10px; */
+/* } */
+
+.received-text {
+    background: #E6E6E6;
+    padding: 10px;
+    border-radius: 10px;
+}
